@@ -1,5 +1,7 @@
+
+трындада4-е
+=======
 sout ("filt;")
 sop ('trsx;')
 hallo;
-
 cipuko
