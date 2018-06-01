@@ -1,5 +1,7 @@
-sout ("filt")
-sop ('trsx')
-hallo
 
 трындада4-е
+=======
+sout ("filt;")
+sop ('trsx;')
+hallo;
+cipuko
